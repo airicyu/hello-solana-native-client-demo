@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+  },
+  "include": ["./src/**/*"],
+  "ts-node": {
+    "experimentalSpecifierResolution": "node",
+    "transpileOnly": true,
+    "esm": true
+  },
+  "exclude": ["node_modules"],
+  "extends": "@tsconfig/node20/tsconfig.json"
+}
