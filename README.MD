@@ -1,5 +1,7 @@
 # Hello Solana Native Client Demo
 
+Client demo for Solana Playground's Hello world (Native) at https://beta.solpg.io/tutorials .
+
 ## Setup
 
 1) Assume you already have installed NodeJS v20+
